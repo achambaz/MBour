@@ -9,5 +9,5 @@ site  and text.  Assuming that  `R` package  `devtools` is  installed on  your
 computer, `tlrider` can be installed by running
 
 ```
-devtools::install_github("achambaz/tlride/MBour")
+devtools::install_github("achambaz/MBour")
 ```
